@@ -27,6 +27,11 @@
             bindings = <&kp TAB>;
             key-positions = <11 12>;
         };
+
+        TILDE_COMBO {
+            bindings = <&kp TILDE>;
+            key-positions = <8 9>;
+        };
     };
 
     macros {
